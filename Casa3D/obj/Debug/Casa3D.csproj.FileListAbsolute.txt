@@ -1,0 +1,14 @@
+D:\Programacion Grafica\Prueba\1-2024\Casa3D\Casa3D\bin\Debug\Casa3D.exe.config
+D:\Programacion Grafica\Prueba\1-2024\Casa3D\Casa3D\bin\Debug\Casa3D.exe
+D:\Programacion Grafica\Prueba\1-2024\Casa3D\Casa3D\bin\Debug\Casa3D.pdb
+D:\Programacion Grafica\Prueba\1-2024\Casa3D\Casa3D\bin\Debug\OpenTK.dll
+D:\Programacion Grafica\Prueba\1-2024\Casa3D\Casa3D\bin\Debug\OpenTK.GLControl.dll
+D:\Programacion Grafica\Prueba\1-2024\Casa3D\Casa3D\bin\Debug\OpenTK.pdb
+D:\Programacion Grafica\Prueba\1-2024\Casa3D\Casa3D\bin\Debug\OpenTK.xml
+D:\Programacion Grafica\Prueba\1-2024\Casa3D\Casa3D\bin\Debug\OpenTK.GLControl.pdb
+D:\Programacion Grafica\Prueba\1-2024\Casa3D\Casa3D\bin\Debug\OpenTK.GLControl.xml
+D:\Programacion Grafica\Prueba\1-2024\Casa3D\Casa3D\obj\Debug\Casa3D.csproj.AssemblyReference.cache
+D:\Programacion Grafica\Prueba\1-2024\Casa3D\Casa3D\obj\Debug\Casa3D.csproj.CoreCompileInputs.cache
+D:\Programacion Grafica\Prueba\1-2024\Casa3D\Casa3D\obj\Debug\Casa3D.csproj.Up2Date
+D:\Programacion Grafica\Prueba\1-2024\Casa3D\Casa3D\obj\Debug\Casa3D.exe
+D:\Programacion Grafica\Prueba\1-2024\Casa3D\Casa3D\obj\Debug\Casa3D.pdb
